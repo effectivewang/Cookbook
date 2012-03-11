@@ -1,0 +1,83 @@
+css\about.css
+css\default.css
+css\groupDetailPage.css
+css\groupedItemsPage.css
+css\itemDetailPage.css
+css\preferences.css
+css\search.css
+data\license.xml
+data\Recipes.txt
+default.html
+html\about.html
+html\groupDetailPage.html
+html\groupedItemsPage.html
+html\itemDetailPage.html
+html\preferences.html
+html\search.html
+images\chinese\AsianNoodleBowl.jpg
+images\chinese\AsianSlaw.jpg
+images\chinese\Chinese Beef With Broccoli.jpg
+images\chinese\Chinese Salad.jpg
+images\chinese\chinese_group_detail.png
+images\chinese\chinese_group_header.png
+images\chinese\Fried Rice with Chinese Sausage.jpg
+images\chinese\Grilled Salmon with Chinese Barbeque Sauce.jpg
+images\french\Chocolate French Toast (pain perdu).jpg
+images\french\French Coconut Pie.jpg
+images\french\French Cut Green Beans with Almonds and Fried Onions.jpg
+images\french\French Dip Sandwiches.jpg
+images\french\French Onion Tart.jpg
+images\french\french_group_detail.png
+images\french\french_group_header.png
+images\german\Braised Bockwurst and Warm Vegetable-Hard Cider 'Kraut with German Style Potatoes.jpg
+images\german\Fried German Potato Salad.jpg
+images\german\German Fruit Pancake with Mixed Berry Syrup-St. Louis.jpg
+images\german\german_group_detail.png
+images\german\german_group_header.png
+images\german\GermanPotatoandSausageCasserole.jpg
+images\german\Grilled Bratwurst with German Potato Salad.jpg
+images\german\Southern Style German Potato Salad.jpg
+images\indian\Indian Rice Pudding.jpg
+images\indian\Indian Spinach-and-Chickpea Fritters.jpg
+images\indian\Indian Summer Turkey Chili.jpg
+images\indian\indian_group_detail.png
+images\indian\indian_group_header.png
+images\indian\Naan Indian Oven-Baked Flat Bread.jpg
+images\indian\SlowCookerCurriedLentilSoup.jpg
+images\indian\SplitPeasWithVegetables.jpg
+images\italian\Italian Antipasto Salad.jpg
+images\italian\Italian Cocktail Meatballs with Herbs and Ricotta.jpg
+images\italian\Italian Cream Cake (From Beth Lott's Mom).jpg
+images\italian\Italian Wedding Soup.jpg
+images\italian\italian_group_detail.png
+images\italian\italian_group_header.png
+images\italian\ItalianTunaToss.jpg
+images\italian\LayeredItalianSandwich.jpg
+images\italian\PenneWithItalianSausage.jpg
+images\italian\RolledItalianMeatLoaf.jpg
+images\italian\SlowCookerPot-RoastedSteaks.jpg
+images\italian\Spaghetti.jpg
+images\logo.png
+images\mexican\Five Layer Mexican Dip.jpg
+images\mexican\Mexican Chicken Soup.jpg
+images\mexican\Mexican Tortilla Chicken Soup.jpg
+images\mexican\Mexican Wedding Cookies.jpg
+images\mexican\mexican_group_detail.png
+images\mexican\mexican_group_header.png
+images\mexican\MexicanChocolateFlan.jpg
+images\mexican\PlumTomatoCups.jpg
+images\smalllogo.png
+images\splashscreen.png
+images\storelogo.png
+js\about.js
+js\data.js
+js\default.js
+js\groupDetailPage.js
+js\groupedItemsPage.js
+js\itemDetailPage.js
+js\media.js
+js\navigator.js
+js\notifications.js
+js\preferences.js
+js\search.js
+js\tiles.js

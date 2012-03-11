@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8</Machine>
+    <WindowsUser>win8beta</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>9A14FBEA9CB375F38CB4809AFB61081322188C944ED18C48A81D5465D4309AFB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>BUILD.55aac983-908e-4a91-8d5f-ce6cf8d3125e_1.0.0.0_neutral__h91ms92gdsmmt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>BUILD.55aac983-908e-4a91-8d5f-ce6cf8d3125e_h91ms92gdsmmt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>BUILD.55aac983-908e-4a91-8d5f-ce6cf8d3125e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Contoso</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-11T15:09:27.279</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\css\about.css">
+      <PackagePath>css\about.css</PackagePath>
+      <Modified>2012-03-11T15:08:17.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\css\preferences.css">
+      <PackagePath>css\preferences.css</PackagePath>
+      <Modified>2012-03-11T14:27:14.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\css\search.css">
+      <PackagePath>css\search.css</PackagePath>
+      <Modified>2012-03-11T12:41:16.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\css\groupDetailPage.css">
+      <PackagePath>css\groupDetailPage.css</PackagePath>
+      <Modified>2012-03-11T11:23:58.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-03-11T10:18:45.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\css\itemDetailPage.css">
+      <PackagePath>css\itemDetailPage.css</PackagePath>
+      <Modified>2012-03-11T15:17:00.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\css\groupedItemsPage.css">
+      <PackagePath>css\groupedItemsPage.css</PackagePath>
+      <Modified>2012-03-11T11:37:13.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\data\license.xml">
+      <PackagePath>data\license.xml</PackagePath>
+      <Modified>2012-03-11T15:21:41.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\data\Recipes.txt">
+      <PackagePath>data\Recipes.txt</PackagePath>
+      <Modified>2012-03-11T11:04:29.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-03-11T15:11:43.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\html\about.html">
+      <PackagePath>html\about.html</PackagePath>
+      <Modified>2012-03-11T15:07:51.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\html\groupDetailPage.html">
+      <PackagePath>html\groupDetailPage.html</PackagePath>
+      <Modified>2012-03-11T11:05:07.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\html\itemDetailPage.html">
+      <PackagePath>html\itemDetailPage.html</PackagePath>
+      <Modified>2012-03-11T15:16:37.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\html\groupedItemsPage.html">
+      <PackagePath>html\groupedItemsPage.html</PackagePath>
+      <Modified>2012-03-11T11:32:59.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\html\preferences.html">
+      <PackagePath>html\preferences.html</PackagePath>
+      <Modified>2012-03-11T14:30:03.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\html\search.html">
+      <PackagePath>html\search.html</PackagePath>
+      <Modified>2012-03-11T13:10:24.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\chinese\AsianNoodleBowl.jpg">
+      <PackagePath>images\chinese\AsianNoodleBowl.jpg</PackagePath>
+      <Modified>2012-02-20T22:12:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\chinese\AsianSlaw.jpg">
+      <PackagePath>images\chinese\AsianSlaw.jpg</PackagePath>
+      <Modified>2012-02-20T22:12:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\chinese\Chinese Beef With Broccoli.jpg">
+      <PackagePath>images\chinese\Chinese Beef With Broccoli.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\chinese\Chinese Salad.jpg">
+      <PackagePath>images\chinese\Chinese Salad.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\chinese\Fried Rice with Chinese Sausage.jpg">
+      <PackagePath>images\chinese\Fried Rice with Chinese Sausage.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\chinese\Grilled Salmon with Chinese Barbeque Sauce.jpg">
+      <PackagePath>images\chinese\Grilled Salmon with Chinese Barbeque Sauce.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\french\Chocolate French Toast (pain perdu).jpg">
+      <PackagePath>images\french\Chocolate French Toast (pain perdu).jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\french\French Coconut Pie.jpg">
+      <PackagePath>images\french\French Coconut Pie.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\french\French Cut Green Beans with Almonds and Fried Onions.jpg">
+      <PackagePath>images\french\French Cut Green Beans with Almonds and Fried Onions.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\french\French Dip Sandwiches.jpg">
+      <PackagePath>images\french\French Dip Sandwiches.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\french\French Onion Tart.jpg">
+      <PackagePath>images\french\French Onion Tart.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\german\Braised Bockwurst and Warm Vegetable-Hard Cider 'Kraut with German Style Potatoes.jpg">
+      <PackagePath>images\german\Braised Bockwurst and Warm Vegetable-Hard Cider 'Kraut with German Style Potatoes.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\german\Fried German Potato Salad.jpg">
+      <PackagePath>images\german\Fried German Potato Salad.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\german\German Fruit Pancake with Mixed Berry Syrup-St. Louis.jpg">
+      <PackagePath>images\german\German Fruit Pancake with Mixed Berry Syrup-St. Louis.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\german\GermanPotatoandSausageCasserole.jpg">
+      <PackagePath>images\german\GermanPotatoandSausageCasserole.jpg</PackagePath>
+      <Modified>2012-02-20T22:19:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\german\Grilled Bratwurst with German Potato Salad.jpg">
+      <PackagePath>images\german\Grilled Bratwurst with German Potato Salad.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\german\Southern Style German Potato Salad.jpg">
+      <PackagePath>images\german\Southern Style German Potato Salad.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\indian\Indian Rice Pudding.jpg">
+      <PackagePath>images\indian\Indian Rice Pudding.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\indian\Indian Spinach-and-Chickpea Fritters.jpg">
+      <PackagePath>images\indian\Indian Spinach-and-Chickpea Fritters.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\indian\Indian Summer Turkey Chili.jpg">
+      <PackagePath>images\indian\Indian Summer Turkey Chili.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\indian\Naan Indian Oven-Baked Flat Bread.jpg">
+      <PackagePath>images\indian\Naan Indian Oven-Baked Flat Bread.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\indian\SlowCookerCurriedLentilSoup.jpg">
+      <PackagePath>images\indian\SlowCookerCurriedLentilSoup.jpg</PackagePath>
+      <Modified>2012-02-20T22:20:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\indian\SplitPeasWithVegetables.jpg">
+      <PackagePath>images\indian\SplitPeasWithVegetables.jpg</PackagePath>
+      <Modified>2012-02-20T22:20:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\Italian Antipasto Salad.jpg">
+      <PackagePath>images\italian\Italian Antipasto Salad.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\Italian Cocktail Meatballs with Herbs and Ricotta.jpg">
+      <PackagePath>images\italian\Italian Cocktail Meatballs with Herbs and Ricotta.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\Italian Cream Cake (From Beth Lott's Mom).jpg">
+      <PackagePath>images\italian\Italian Cream Cake (From Beth Lott's Mom).jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\Italian Wedding Soup.jpg">
+      <PackagePath>images\italian\Italian Wedding Soup.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\ItalianTunaToss.jpg">
+      <PackagePath>images\italian\ItalianTunaToss.jpg</PackagePath>
+      <Modified>2012-02-20T22:22:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\LayeredItalianSandwich.jpg">
+      <PackagePath>images\italian\LayeredItalianSandwich.jpg</PackagePath>
+      <Modified>2012-02-20T22:22:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\PenneWithItalianSausage.jpg">
+      <PackagePath>images\italian\PenneWithItalianSausage.jpg</PackagePath>
+      <Modified>2012-02-20T22:22:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\RolledItalianMeatLoaf.jpg">
+      <PackagePath>images\italian\RolledItalianMeatLoaf.jpg</PackagePath>
+      <Modified>2012-02-20T22:22:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\SlowCookerPot-RoastedSteaks.jpg">
+      <PackagePath>images\italian\SlowCookerPot-RoastedSteaks.jpg</PackagePath>
+      <Modified>2012-02-20T22:22:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\Spaghetti.jpg">
+      <PackagePath>images\italian\Spaghetti.jpg</PackagePath>
+      <Modified>2012-02-20T22:22:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\mexican\Five Layer Mexican Dip.jpg">
+      <PackagePath>images\mexican\Five Layer Mexican Dip.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\mexican\Mexican Chicken Soup.jpg">
+      <PackagePath>images\mexican\Mexican Chicken Soup.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\mexican\Mexican Tortilla Chicken Soup.jpg">
+      <PackagePath>images\mexican\Mexican Tortilla Chicken Soup.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\mexican\Mexican Wedding Cookies.jpg">
+      <PackagePath>images\mexican\Mexican Wedding Cookies.jpg</PackagePath>
+      <Modified>2012-02-01T21:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\mexican\MexicanChocolateFlan.jpg">
+      <PackagePath>images\mexican\MexicanChocolateFlan.jpg</PackagePath>
+      <Modified>2012-02-20T22:24:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\mexican\PlumTomatoCups.jpg">
+      <PackagePath>images\mexican\PlumTomatoCups.jpg</PackagePath>
+      <Modified>2012-02-20T22:24:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\chinese\chinese_group_detail.png">
+      <PackagePath>images\chinese\chinese_group_detail.png</PackagePath>
+      <Modified>2012-02-20T22:13:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\chinese\chinese_group_header.png">
+      <PackagePath>images\chinese\chinese_group_header.png</PackagePath>
+      <Modified>2012-02-20T22:13:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\french\french_group_detail.png">
+      <PackagePath>images\french\french_group_detail.png</PackagePath>
+      <Modified>2012-02-20T22:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\french\french_group_header.png">
+      <PackagePath>images\french\french_group_header.png</PackagePath>
+      <Modified>2012-02-20T22:18:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\german\german_group_detail.png">
+      <PackagePath>images\german\german_group_detail.png</PackagePath>
+      <Modified>2012-02-20T22:19:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\german\german_group_header.png">
+      <PackagePath>images\german\german_group_header.png</PackagePath>
+      <Modified>2012-02-20T22:19:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\indian\indian_group_detail.png">
+      <PackagePath>images\indian\indian_group_detail.png</PackagePath>
+      <Modified>2012-02-20T22:20:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\indian\indian_group_header.png">
+      <PackagePath>images\indian\indian_group_header.png</PackagePath>
+      <Modified>2012-02-20T22:20:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\italian_group_detail.png">
+      <PackagePath>images\italian\italian_group_detail.png</PackagePath>
+      <Modified>2012-02-20T22:21:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\italian\italian_group_header.png">
+      <PackagePath>images\italian\italian_group_header.png</PackagePath>
+      <Modified>2012-02-20T22:21:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-02-20T22:15:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\mexican\mexican_group_detail.png">
+      <PackagePath>images\mexican\mexican_group_detail.png</PackagePath>
+      <Modified>2012-02-20T22:23:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\mexican\mexican_group_header.png">
+      <PackagePath>images\mexican\mexican_group_header.png</PackagePath>
+      <Modified>2012-02-20T22:23:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-02-20T22:15:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-02-20T22:15:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2012-02-20T22:15:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\about.js">
+      <PackagePath>js\about.js</PackagePath>
+      <Modified>2012-03-11T15:15:21.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\groupDetailPage.js">
+      <PackagePath>js\groupDetailPage.js</PackagePath>
+      <Modified>2012-03-11T13:34:51.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-03-11T15:06:07.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\media.js">
+      <PackagePath>js\media.js</PackagePath>
+      <Modified>2012-03-11T13:31:59.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-03-11T14:12:04.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-03-11T14:11:28.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\itemDetailPage.js">
+      <PackagePath>js\itemDetailPage.js</PackagePath>
+      <Modified>2012-03-11T15:22:48.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\groupedItemsPage.js">
+      <PackagePath>js\groupedItemsPage.js</PackagePath>
+      <Modified>2012-03-11T13:19:04.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\notifications.js">
+      <PackagePath>js\notifications.js</PackagePath>
+      <Modified>2012-03-11T14:59:09.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\preferences.js">
+      <PackagePath>js\preferences.js</PackagePath>
+      <Modified>2012-03-11T14:29:18.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\search.js">
+      <PackagePath>js\search.js</PackagePath>
+      <Modified>2012-03-11T12:58:00.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\js\tiles.js">
+      <PackagePath>js\tiles.js</PackagePath>
+      <Modified>2012-03-11T14:34:00.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-11T15:09:26.967</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\">
+      <Name>Microsoft.WinJS.0.6.Debug</Name>
+      <Version>0.6.8229.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.0.6.Debug, MinVersion=0.6.8229.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\Microsoft.WinJS.0.6.Debug.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

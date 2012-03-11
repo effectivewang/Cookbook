@@ -1,0 +1,13 @@
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bin\Debug\resources.pri
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bin\Debug\AppxManifest.xml
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bin\Debug\Source.build.appxrecipe
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\priconfig.xml
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\layout.resfiles
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\resources.resfiles
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\pri.resfiles
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\LanguageQualifiers.txt
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\ProjectArchitectures.txt
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\priconfig.xml.intermediate
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\layout.resfiles.intermediate
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\resources.resfiles.intermediate
+C:\Users\win8beta\Documents\Visual Studio 11\Projects\Cookbook\Source\bld\Debug\pri.resfiles.intermediate
